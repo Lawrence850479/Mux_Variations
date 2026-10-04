@@ -1,0 +1,19 @@
+
+9. Printing statistics.
+
+=== mux4_case ===
+
+        +----------Local Count, excluding submodules.
+        | 
+       13 wires
+       17 wire bits
+        3 public wires
+        7 public wire bits
+        3 ports
+        7 port bits
+       11 cells
+        2   $_AND_
+        4   $_NAND_
+        2   $_NOT_
+        3   $_OR_
+
